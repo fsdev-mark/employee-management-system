@@ -9,6 +9,21 @@
 .project
 .settings/
 
+# Eclipse and Java
+.classpath
+.project
+.settings/
+bin/
+target/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven
+dependency-reduced-pom.xml
+
 # IntelliJ IDEA project files
 *.iml
 *.ipr
