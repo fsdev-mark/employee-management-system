@@ -55,12 +55,12 @@ employee-management-system/
    ```bash
    git clone https://github.com/your-username/employee-management-system.git
 
-##📖 Documentation
+## 📖 Documentation
 - API endpoints and usage will be documented in /docs (coming soon).
 - Workflow automation scripts for HR tasks are under development
 
 ## 🤝 Contributing
 - Contributions are welcome! Please fork the repository and submit a pull request with clear commit messages.
 
-##📜 License
+## 📜 License
 - This project is licensed under the MIT License file
