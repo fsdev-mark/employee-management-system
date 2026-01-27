@@ -7,8 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.dev.model.Employee;
-import com.dev.repository.EmployeeRepository;
-import com.dev.service.EmployeeService;
+import com.dev.repositories.EmployeeRepository;
+import com.dev.services.EmployeeService;
 
 @Service
 public class EmployeeServiceImpl implements EmployeeService {
